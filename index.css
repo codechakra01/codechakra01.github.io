@@ -36,6 +36,12 @@ nav{
     /* box-shadow: 0px 1px 6px rgb(32 33 36 / 28%); */
 
 }
+.app-screenshot-slide{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
 .introduction img{
     width: 400px;
     border-style: none;
