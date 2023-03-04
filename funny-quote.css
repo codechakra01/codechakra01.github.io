@@ -1,0 +1,18 @@
+.funny-quote{
+    margin: 10px;
+    padding: 10px;
+    box-shadow: 0px 1px 6px rgb(32 33 36 / 28%);
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    height: 192px;
+}
+.funny-quote h4{
+    font-size: 20px;
+}
+.funny-quote ul{
+    list-style: none;
+}
